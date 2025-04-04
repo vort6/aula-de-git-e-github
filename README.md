@@ -1,6 +1,5 @@
 # Projeto do Jogo secreto
-
-## Estudo de Markdown syntax guide
+# Estudo de Markdown syntax guide
 
 ## Códigos utilizados 
 * Javascript
@@ -10,3 +9,8 @@
 ## IDE usada
 
 * VISUAL STUDIO
+
+## Ferramentas
+
+* Git
+* Github
